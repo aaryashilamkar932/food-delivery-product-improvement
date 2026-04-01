@@ -1,4 +1,5 @@
-
+## 📌 Product Case Study
+This project focuses on improving user experience in food delivery applications by solving real-world user problems.
 # Food Delivery App Product Improvement
 
 ## Problem
